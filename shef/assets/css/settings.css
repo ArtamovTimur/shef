@@ -1,0 +1,137 @@
+input{
+	width: 32%;
+	height: 40px;
+	outline-color: #ff8300;
+	border: 1px solid #ffe08b;
+	color: #ccc;
+}
+ 
+.button{
+	width: 111px;
+	height: 40px;
+	outline: none;
+	background: #ff8300;
+	color: white;
+}
+.button:hover{
+	background: orange;
+	color: white;
+}
+*{
+	font-family: FRANKLIN GOTHIC MEDIUM;
+}
+.password{
+	margin-left: -5px;
+}
+
+.btn-delete{
+	background-color: #B70303;
+	color: white;
+}
+.btn-delete:hover{
+	background-color: black;
+	color: white;
+}
+.ccc a{
+  color: black;
+  font-size: 16px;
+}
+a{
+	color: black;
+}
+.goto{
+	  border: 1px solid #ffe08b;
+	  background: #ff8300;
+	  color: white;
+}
+.goto:hover{
+	  background: orange;
+	  color: white;
+	  outline: none;
+}
+.go{
+	color: white;
+}
+.delete{
+	background: red;
+	border: none;
+	outline: none;
+}
+.delete:hover{
+	background: #ff6f6f;
+}
+.fot_angi{
+	margin-top: 50px;
+	background: #fbfbfb;
+}
+body{
+	background: #fbfbfb;
+}
+@media (max-width: 805px){
+	.fot_angi{
+		margin-left: 2%;
+	}
+	input{
+		width: 52%;
+		height: 40px;
+		outline-color: #ff8300;
+		border: 1px solid #ffe08b;
+		color: #ccc;
+	}
+ 
+}
+@media (max-width: 1000px){
+	.fot_angi{
+		margin-left: 2%;
+	}
+	input{
+		width: 52%;
+		height: 40px;
+		outline-color: #ff8300;
+		border: 1px solid #ffe08b;
+		color: #ccc;
+	}
+ 
+}
+@media (max-width: 460px){
+	.fot_angi{
+		margin-left: 2%;
+	}
+	input{
+		width: 62%;
+		height: 40px;
+		outline-color: #ff8300;
+		border: 1px solid #ffe08b;
+		color: #ccc;
+	}
+ 
+}
+@media (max-width: 332px){
+	.fot_angi{
+		margin-left: 2%;
+	}
+	input{
+		width: 100%;
+		height: 40px;
+		outline-color: #ff8300;
+		border: 1px solid #ffe08b;
+		color: #ccc;
+	}
+ 
+}
+.footer{
+	width: 100%;
+	height: 170px;
+	background: #f8f8f8;
+	overflow: hidden;
+}
+	.foot{
+		width: 100%;
+		height: 120px;
+		background:#f8f8f8;
+	}	
+		.log{
+			margin: 0 auto;
+			width: 150px;
+			height: 100px;
+		}

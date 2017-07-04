@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>shef.kz</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/assets/css/work.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="/assets/js/ie-emulation-modes-warning.js"></script>
+	<link rel="icon" href="/assets/images/logo/logo-header.png">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->	
+	</head>
+	<body><br><br><br>
+	<!-- Open Header -->
+		<nav class="navbar navbar-default header navbar-fixed-top">
+			<div class="container-fluid">
+    <!-- Mobile version -->
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			  </button>
+			  <a class="navbar-brand" href="/"><img src="/assets/images/logo/logo.png" style="margin-top: -15px;"></a>
+			</div>
+    <!-- Navbar-left -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			  <ul class="nav navbar-nav navbar-left">
+				<li class="dropdown">
+			  </ul>
+	<!-- NAVBAR-Center -->
+	<!-- NAVBAR-Right  -->
+			  <ul class="nav navbar-nav navbar-right">
+				<li class="add-ad"><a href="/dishes/add"><i>Подать объявление</i></a></li>
+			  </ul>
+			</div><!-- /.navbar-collapse -->
+		  </div><!-- /.container-fluid -->
+</nav>
+	<!-- Close Header -->
+	<!-- Open   Main  -->
+	
+	<main>
+	<body>
+
+    <div class="blog-header">
+      <div class="container">
+        <h1 class="blog-title">О нас</h1>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+
+		
+		
+		
+          <div class="blog-post">
+            <h2 class="blog-post-title">Как это работает?</h2>
+            <p><blockquote>Shef - платформа для размещения купле-продажи еды.</blockquote> Shef - это больше, чем просто сайт или удобные сервисы. Это новая философия, форма отношений между поварами и дегустаторами, задумки поворов и их аудиторией. Мы создали экосистему в Сети, которая влияет на оффлайновую жизнь и открывает людям новые возможности для самореализации</p>
+			<img src="/assets/images/other/buy-sell-food.jpg"  class="images"/>
+            <hr>
+          </div><!-- /.blog-post -->
+
+		  
+		  
+		  
+		  
+          <div class="blog-post">
+            <h2 class="blog-post-title">Покупателям</h2>
+            <p><blockquote>Покупателям нужно зарегестрироваться на сайте. После этого вы можете покупать, оценивать и делится. Так же вы можете оставлять сообщения на форуме, того чтобы вы хотели. Вам стоит создать только сообщения, указать категорию еды, описание и цену которую вы готовы заплатить за него.</blockquote></p>         
+			<img src="/assets/images/other/buy.jpg"    class="images" />
+			<hr>
+		  </div><!-- /.blog-post -->
+
+		  
+		  
+          <div class="blog-post">
+            <h2 class="blog-post-title">Производителям</h2>
+            <p>При регистрации вы указывает являетесь ли вы частном лицом или же у вас бизнес. Вы можете создавать объявления двух видов постоянные или временные. После каждого проданного вами блюда, по оценкам покупателя будет создаваться ваш рейтинг блюд. Чем больше ваш рейтинг, тем выше вы в списке.</p>
+				<p><blockquote>Постоянные объявления - платные объявления, они будут постоянно находится на вашей личной странице.</blockquote></p>
+				<p><blockquote>Временные объявления - бесплатные объявления, они появляются на определенное время не больше 24 часов, чем меньше остается времени, тем выше оно становится в списке.</blockquote></p>      
+				<hr>
+		 </div><!-- /.blog-post -->
+
+		 
+		  <div class="blog-post">
+            <h2 class="blog-post-title">Наша история</h2>
+            <p><blockquote>Shef - была задумкой 4 студентов. Создана была в 2017 году. <br><strong>Этими студентами являются:<br><hr>
+				Утеев Гизат&nbsp;(frontend)<hr>Габдуллов Асет&nbsp;(frontend)
+				<br> <hr>Артамов Тимур&nbsp;(backend) <br><hr>Кулаков Дмитрий&nbsp;(backend)</strong>
+			</blockquote></p>         
+			<hr>
+		  </div><!-- /.blog-post -->
+		 
+		 
+		 
+		 <div class="blog-post">
+            <h2 class="blog-post-title">Связаться с нами</h2>
+            <p><blockquote>Наш номер: +1 212 1020 492<br><a href="">Facebook</a><br><a href="">Instagram</a></blockquote></p>         
+			<hr>
+		  </div><!-- /.blog-post -->
+		 
+
+        </div><!-- /.blog-main -->
+
+        <div class="col-sm-3 offset-sm-1 blog-sidebar">
+          <div class="sidebar-module sidebar-module-inset">
+			<a href="#">Как это работает?</a>
+          </div>
+          <div class="sidebar-module">
+            <ol class="list-unstyled">
+              <li><a href="#">Покупателям</a></li>
+              <li><a href="#">Производителям</a></li>
+              <li><a href="#">Наша история</a></li>
+              <li><a href="#">Посещаемость сайта</a></li>
+              <li><a href="#">Связаться с нами</a></li>
+            </ol>
+          </div>
+        </div><!-- /.blog-sidebar -->
+
+      </div><!-- /.row -->
+
+    </div><!-- /.container -->
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="assets/dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+  
+	<footer class="footer">
+			<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 user">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 copy">
+						
+						<div class="copyright">Copyright © 2017 Shef Inc. All rights reserved.</div>
+					</div>
+					
+					<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4">
+						<ul>
+							<li><a href="https://vk.com/giza_1">Утеев Гизат</a></li>
+							<li><a href="https://vk.com/artamka_tima">Артамов Тимур</a></li>
+						</ul>
+					</div>
+					
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 user_name">
+						<ul>
+							<li><a href="https://vk.com/pbarticles">Кулаков Дмитрий</a></li>
+							<li><a href="https://vk.com/a.gabdu">Габдуллов Асет</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+      </div>
+	</footer>
+	
+	</main>
+
+	</body>
+</html>

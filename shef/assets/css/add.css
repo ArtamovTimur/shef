@@ -1,0 +1,122 @@
+.rq input { 
+	width: 100%;
+}	 
+
+	.textarea_div textarea{
+		outline-color: orange;
+		width: 100%;
+		display: block;
+	}
+		 
+		.btn_center {
+			text-align: center;
+			border: none;
+			border-radius: 3px;
+		}
+			.btn_center input{
+				background: orange;
+				border: none;
+				outline: none;
+				border-radius: 3px;
+				color: white;
+				font-size: 20px;
+			}
+
+				.btn-group select{
+						width: 100px;
+						outline: none;
+						height: 30px;
+						border-radius: 7px;
+						background: orange;
+						margin-top: 15px;
+						color: white;
+						border: none;
+				}
+					.btn-group select option{
+						color: white;
+						border-radius: 7px 7px 1px 1px;
+						border: none;
+					}
+
+							
+						 .category_user{
+						 	width: 100%;
+						 	height: 100px;
+						 	background: red;
+						 }
+						 	.lf_s input{
+						 		width: 90%;
+						 	}
+						 		.md_s input{
+							 		width: 90%;
+							 	}	
+							 		.rg_s input{
+								 		width: 90%;
+								 	}
+
+
+
+			@media (max-width: 700px){
+				.btn_center input{
+					width: 70%;
+					font-size: 15px;
+				}
+			}
+
+.h{
+	text-align: center;
+}
+
+
+.file-upload {
+     position: relative; /* Даем возможность делать позиционирование, внутри данного элемента */
+     overflow: hidden; /* Все что выходит за пределы - скрываем */
+     width: 30%; /* Задаем ширину кнопки выбора файла */
+     height: 30px; /* Задаем высоту кнопки выбора файла */ 
+     background: orange;
+     border-radius: 3px;
+     padding: 8px 4px;
+     color: #fff;
+     text-align: center;
+     
+}
+ 
+.file-upload input[type="file"]{
+    display: none; /* Обязательно скрываем настоящий Input File */
+}
+.file-upload label {
+     /* Растягиваем label на всю возможную площадь блока .file-upload */
+     display: block;
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     cursor: pointer;
+}
+.file-upload span {
+     line-height: 36px; /* Делаем вертикальное выравнивание текста, который написан на кнопке */
+
+}
+.file-upload span i{
+	color: white;
+}
+.filename {
+     background: #fff;
+     border: 0;
+}
+
+	.user_face{
+		width: 200px;
+		height: auto;
+		margin: 0 auto;
+		text-align: center;
+	}	
+		.user_face button{
+			outline: none;
+			border-radius: 2px;
+			border: none;
+			padding:  0px 10px;
+			background: orange;
+			color: white;
+		}

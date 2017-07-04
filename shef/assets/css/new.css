@@ -1,0 +1,354 @@
+ @import url(http://fonts.googleapis.com/css?family=Roboto);
+*{
+	margin: 0;
+	padding: 0;
+	font-family: FRANKLIN GOTHIC MEDIUM;
+	color: black;
+}
+.ccc a{
+  color: black;
+  font-size: 16px;
+}
+a{
+	color: black;
+}
+ 	 .header{
+	 	width: 100%;
+	 }
+		.add-ad{
+	      border-radius: 10px;
+	      font-size: 20px;
+	      background-color:  #ff8300;
+	    }
+	    .add-ad:hover{
+	      border-radius: 10px;
+	      font-size: 20px;
+	      background-color: orange;
+	    }
+	      .add-ad i{
+	        font-size: 15px;
+	        font-weight: bold;
+	        color: white;
+	        letter-spacing: 3px;
+	      }
+	 		.modal_dialog{
+	 			max-width: 500px;
+	 			height: 500px;
+	 			background: #fff;
+	 			margin: 0 auto;
+	 			overflow: hidden;
+	 			margin-top: 40px;
+	 			border-radius: 5px;
+	 		}
+				.loginmodal_container h1{
+					text-align: center;
+					font-size: 30px;
+					margin-top: 35px;
+				}
+					.modal_dialog input[type="text"]{
+						margin-top: 15px;
+						width: 100%;
+						height: 50px;
+						outline-color: #ff8300;
+						padding-left: 3%;
+					}
+					.modal_dialog input[type="password"]{
+						margin-top: 35px;
+						width: 100%;
+						padding-left: 3%;
+						height: 50px;
+						outline-color: #ff8300;	
+					}
+					.modal_dialog input[type="submit"]{
+						width: 90%;
+						margin: 0 auto;
+						margin-left: 5%;
+						margin-top: 25px;
+						height: 50px;
+						outline: none;
+						border: none;
+						background:  #ff8300;
+						border-radius: 15px;
+						color: white;
+						font-size: 20px;
+					}
+					.modal_dialog input[type="submit"]:hover{
+				 			background: orange;	 
+					}
+					.login_help{
+						margin: 0 auto;
+						max-width: 315px;
+						margin-top: 50px;
+						text-align: center;
+
+					}
+						.login_help a{
+							font-size: 14px;
+							margin-left: 10px;
+    						margin-right: 39px;
+						}
+						.login_help a:last-child{
+							font-size: 14px;
+							margin-right: 0px;
+						}
+						.lgw{
+							width: 80%;
+						    height: 50px;
+						    margin: 0 auto;
+						    margin-top: 20px;
+						    background: url(../images/logo/logo.png) no-repeat;
+						    background-position: 50% 0;
+						}
+							   
+								.categories li{
+									color: black;
+									list-style-type: none;
+									 
+								}
+								.categories a{
+									text-decoration: none;
+								    padding: 6%;
+								    display: block;
+								    font-size: 15px;
+								}
+								 
+								.categories a:hover{
+									color: gray;
+									font-weight: bold;
+								}
+								.categories span{
+									margin-left: 10px;
+								}
+								 @media  (max-width:  490px){
+								 		 .categories a{
+											text-decoration: none;
+											padding: 6%;
+											display: block;
+											font-size: 13px;	
+										}
+								 }
+								  @media  (max-width:  350px){
+								 		 .categories a{
+											text-decoration: none;
+											padding: 6%;
+											display: block;
+											font-size: 11px;	
+										}
+								 }
+								  
+ .adds{
+	border: 1px solid #ccc;
+	border-radius: 10px; 
+	width: 90%;
+	margin-top:10px;
+	height: 311px;
+	padding: 5px;
+	margin: 5px;
+								 
+}
+.adds:hover{
+	border: 1px solid black;
+	border-radius: 10px;
+}
+	.p_l{
+		max-width: 100%;
+		height: 70px; 
+		float: left;
+		margin-top: 5px;
+	}
+		.p_l h3{
+			margin-top: 0;
+			font-size: 18px;
+		}
+			.p_l p{
+				 line-height: 10px;		
+				 font-size: 11px;	
+			}
+				.obidenen{
+					width: 100%;
+					height: 50px;
+					float: left;
+				}
+		 		.p_r{
+					max-width: 100px;
+					height: 50px; 
+					float: right;
+					line-height: 55px;
+				}
+					.p_r b{
+						margin-left: 12px;
+					}
+		 			.span{
+						max-width: 100px;
+						height: 50px; 
+						float: left;
+					}
+						.span p{
+							margin-left: 7px;
+							line-height: 50px;
+						}				 
+
+		.img{
+			margin: 0 auto;
+			max-width: 80%;
+			margin-top: 1px;
+		}
+
+			.avtor{
+				float: left;
+				width: 60%;
+			}
+			.time_eat {
+			    float: right;
+			    width: 40%;
+			    margin-top: 9px;
+			}
+			.time_eat p{
+				font-size: 12px;
+			}
+ @media  (max-width:  768px){
+ 		.adds{
+ 			width: 100%;
+			height: 200px;
+ 		}
+ 		.img{
+			float: left;
+			max-width: 65%;
+			margin-top: 7px;
+			margin-top: 1px;
+		}
+
+
+ }
+ @media  (max-width:  1199px){
+ 			.avtor{
+				float: left;
+				width: 100%;
+			}
+			.time_eat {
+			    float: right;
+			    width: 50%;
+			    margin-top: 0px;
+			}
+ }
+ @media  (max-width:  990px){
+ 		.adds{
+ 			width: 100%;
+			height: 337px;
+ 		}
+ 			.avtor{
+				float: left;
+				width: 60%;
+			}
+			.time_eat {
+			    float: right;
+			    width: 40%;
+			    margin-top: 9px;
+			}
+ }
+ @media  (max-width:  769px){
+ 		 		.obidenen{
+					width: 39%;
+					height: 50px;
+					float: right;
+					margin-top: 30px;
+				}
+				.p_l{
+					max-width: 100%;
+					height: 70px; 
+					float: right;
+					margin-top: 5px;
+				}
+				.img{
+					float: left;
+					max-width: 53%;
+					margin-top: 7px;
+					margin-top: 1px;
+				}
+				.adds{
+		 			width: 100%;
+					height: 217px;
+		 		}
+
+ }
+  @media  (max-width:  767px){
+ 		 		.obidenen{
+					width: 39%;
+					height: 50px;
+					float: right;
+					margin-top: 30px;
+				}
+				.p_l{
+					max-width: 100%;
+					height: 70px; 
+					float: left;
+					margin-top: 5px;
+				}
+				.img{
+					float: left;
+					max-width: 41%;
+					margin-top: 7px;
+					margin-top: 1px;
+				}
+				.adds{
+		 			width: 100%;
+					height: 227px;
+		 		}
+
+ }
+ @media  (max-width:  460px){
+ 		 		.obidenen{
+					width: 130px;
+					height: 50px;
+					float: right;
+					margin-top: 0;
+				}
+				.p_l{
+					width: 100%;
+					height: 70px; 
+					float: left;
+					margin-top: 0;
+				}
+				.img{
+					float: left;
+					max-width: 61%;
+					margin-top: 7px;
+					margin-top: 1px;
+				}
+				.adds{
+		 			width: 100%;
+					height: 317px;
+		 		}
+
+ }
+ @media  (max-width:  422px){
+ 		 
+				.adds{
+		 			width: 100%;
+					height: 308px;
+		 		}
+
+ }
+
+
+.footer{
+	width: 100%;
+	height: 170px;
+	background: #fff;
+	overflow: hidden;
+}
+	.foot{
+		width: 100%;
+		height: 120px;
+		margin-top: 50px;
+		background:#f8f8f8;
+	}	
+		.log{
+			margin: 0 auto;
+			width: 150px;
+			height: 100px;
+		}
+
+
+
+	 
